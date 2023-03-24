@@ -1,0 +1,12 @@
+[
+  { "name": "Chicken Momos", "size": "Small", "price": 199 },
+  { "name": "Fried Momos", "size": "Medium", "price": 249 },
+  { "name": "Tandoori Momos", "size": "Small", "price": 199 },
+  { "name": "kabab Momos", "size": "Large", "price": 319 },
+  { "name": "Chilly Momos", "size": "Small", "price": 199 },
+  { "name": "Soup Momos", "size": "Small", "price": 199 },
+  { "name": "Cheese Momos", "size": "Large", "price": 319 },
+  { "name": "Paneer Momos", "size": "Small", "price": 199 },
+  { "name": "Veg Momos", "size": "Medium", "price": 249 },
+  { "name": "Steamed Momos", "size": "Large", "price": 319 }
+]
